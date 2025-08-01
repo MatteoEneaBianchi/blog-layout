@@ -46,8 +46,6 @@ author:
 
 # Gems
 plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
 
 # Permalinks
 permalink                    : posts/:slug
